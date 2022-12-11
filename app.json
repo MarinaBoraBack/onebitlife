@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app-onebitocde",
+    "slug": "app-onebitocde",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
